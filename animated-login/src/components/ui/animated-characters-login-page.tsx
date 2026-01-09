@@ -337,7 +337,7 @@ function LoginPage() {
             <div className="size-8 rounded-lg bg-primary-foreground/10 backdrop-blur-sm flex items-center justify-center">
               <Sparkles className="size-4" />
             </div>
-            <span>YourBrand</span>
+            <span>RöHîT</span>
           </div>
         </div>
 
@@ -538,12 +538,12 @@ function LoginPage() {
             <div className="size-8 rounded-lg bg-primary/10 flex items-center justify-center">
               <Sparkles className="size-4 text-primary" />
             </div>
-            <span>YourBrand</span>
+            <span>RöHîT</span>
           </div>
 
           {/* Header */}
           <div className="text-center mb-10">
-            <h1 className="text-3xl font-bold tracking-tight mb-2">Welcome back!</h1>
+            <h1 className="text-3xl font-bold tracking-tight mb-2">Welcome back Cutie!</h1>
             <p className="text-muted-foreground text-sm">Please enter your details</p>
           </div>
 
